@@ -9,5 +9,10 @@
 <body>
     <h1>Hello World</h1>
     <p>Paragraf baru</p>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+        <li>tiga</li>
+    </ul>
 </body>
 </html>
